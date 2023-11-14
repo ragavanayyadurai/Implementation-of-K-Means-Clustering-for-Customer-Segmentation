@@ -1,5 +1,6 @@
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
-
+# EXPERIMENT NO: 8
+# DATE: 31.10.23
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
 
